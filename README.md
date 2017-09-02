@@ -1,5 +1,8 @@
-# A-Frame Project
+# ZIPLOC
+*Nikki Nikki, where you been?*
+  
+Made a lil game for a special [dirty boi](https://www.instagram.com/xelelel/)'s birthday. First time using A-Frame and second time with Glitch! 
 
-Built with [A-Frame](https://aframe.io), a web framework for building virtual reality experiences. Make WebVR with HTML and Entity-Component. Works on Vive, Rift, desktop, mobile platforms.
+## [Take A Drag](https://ziploc.glitch.me/) 🚬
 
-Click and drag on desktop. Open it on a smartphone and use the device motion sensors. Or [plug in a VR headset](https://webvr.rocks)!
+(shout out to Tyler the Creators dope freestyle "Ziploc" that inspired the creation of this project)
